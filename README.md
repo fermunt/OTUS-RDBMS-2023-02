@@ -5,3 +5,5 @@
 https://otus.ru/lessons/subd/
 
 Здесь будут размещены домашние задания для курса и результаты их выполнения.
+
+[ДЗ №1 - проектирование БД](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/homework_1.md)
