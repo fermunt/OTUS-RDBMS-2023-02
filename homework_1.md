@@ -20,19 +20,25 @@
   
 Определим следующие сущности - **поставщик**(supplier) и **покупатель**(byer)  
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/supplier-byer.jpg)  
+  
 Данные сущности имеют одинаковые наборы полей в виде ID, наименования, адреса (не нормализован), контактного лица и пары контактных телефонов.    
   
 Определим две сущности заказов **o_supplier** и **o_byer**, в одну будут помещаться данные о заказах у поставщиков, во вторую - данные об отправках покупателям.  
+  
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/order.jpg)  
 
 Так как сущности (supplier и o_supplier) и (byer и o_byer) имеют отношение многие-ко-многим - соединим их через промежуточные таблицы  
+  
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/supplier-order.jpg)  
-
+  
 Также с сущностями (product - o_supplier) и (product - o_byer)    
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/product-order.jpg)  
 
 **Итоговая схема**  
+  
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/all.jpg)  
+  
+  
   
   
 
