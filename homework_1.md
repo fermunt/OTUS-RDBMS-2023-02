@@ -13,6 +13,7 @@
 
 ## **Домашнее задание:**
 Схему буду реализовывать в MySQL Workbench. Скачать его можно [здесь](https://dev.mysql.com/downloads/workbench/)  
-Определим сущность **продукты**(product)
+Определим сущность **продукты**(product) - **категории**(category) - **производители**(vendor)
+![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/product.jpg)
 
 
