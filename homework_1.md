@@ -31,6 +31,12 @@
 Также с сущностями (product - o_supplier) и (product - o_byer)    
 ![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/product-order.jpg)  
 
+**Итоговая схема**  
+![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/all.jpg)  
+  
+  
+
+
 
 
 
