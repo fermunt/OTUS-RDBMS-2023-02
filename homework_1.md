@@ -19,7 +19,7 @@
 У производителя есть ID, имя, адрес (можно нормализовать), контактное лицо и контактные телефон.
   
 Определим следующие сущности - **поставщик**(supplier) и **покупатель**(byer)  
-![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/supplier-byer.jpg)
+![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_1/supplier-byer.jpg)  
 Данные сущности имеют одинаковые наборы полей в виде ID, наименования, адреса (не нормализован), контактногоо лица и пары контактных телефонов.  
 
 
