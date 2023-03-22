@@ -12,11 +12,10 @@
 
 ## **Домашнее задание:**  
 Обновленная простейшая схема с индексами и внешними ключами выглядит так:
-![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_2/all.jpg)    
+![](https://github.com/fermunt/OTUS-RDBMS-2023-02/blob/main/pics_homework_2/all.jpg)
 
 
 
- 
-        
-        
+
+
 [Домой](https://github.com/fermunt/OTUS-RDBMS-2023-02)
